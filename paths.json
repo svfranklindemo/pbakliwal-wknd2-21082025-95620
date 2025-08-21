@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/pbakliwal-new-site/language-masters/en:/",
-    "/content/pbakliwal-new-site/language-masters/en/:/",
-    "/content/pbakliwal-new-site/language-masters/en/:/en/",
-    "/content/pbakliwal-new-site/configuration:/.helix/config.json",
-    "/content/pbakliwal-new-site/metadata:/metadata.json",
-    "/content/pbakliwal-new-site/redirects:/redirects.json",
-    "/content/pbakliwal-new-site/placeholders:/placeholders.json",
-    "/content/pbakliwal-new-site.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/1e7e2b3a-3bcd-4d32-b12b-0711ec478bfa/language-masters/en:/",
+    "/content/1e7e2b3a-3bcd-4d32-b12b-0711ec478bfa/language-masters/en/:/",
+    "/content/1e7e2b3a-3bcd-4d32-b12b-0711ec478bfa/language-masters/en/:/en/",
+    "/content/1e7e2b3a-3bcd-4d32-b12b-0711ec478bfa/configuration:/.helix/config.json",
+    "/content/1e7e2b3a-3bcd-4d32-b12b-0711ec478bfa/metadata:/metadata.json",
+    "/content/1e7e2b3a-3bcd-4d32-b12b-0711ec478bfa/redirects:/redirects.json",
+    "/content/1e7e2b3a-3bcd-4d32-b12b-0711ec478bfa/placeholders:/placeholders.json",
+    "/content/1e7e2b3a-3bcd-4d32-b12b-0711ec478bfa.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/pbakliwal-new-site/",
-    "/content/dam/pbakliwal-new-site/"
+    "/content/1e7e2b3a-3bcd-4d32-b12b-0711ec478bfa/",
+    "/content/dam/1e7e2b3a-3bcd-4d32-b12b-0711ec478bfa/"
   ]
 }
